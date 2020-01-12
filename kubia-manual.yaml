@@ -10,4 +10,4 @@ spec:
     image: book5017/kubia
     ports:
       - containerPort: 8080
-        protocal: TCP
+        protocol: TCP
